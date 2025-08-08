@@ -19,11 +19,7 @@ Welcome to the source code of my personal corner on the internet! This portfolio
 
 Here's a quick glimpse of the portfolio in action. The live version features smooth scroll animations and interactive elements.
 
-![Portfolio Demo GIF](https://i.imgur.com/your-gif-url.gif)
 
-> **Pro Tip:** You can create a GIF of your website using free tools like [ScreenToGif](https://www.screentogif.com/) or [GIPHY Capture](https://giphy.com/apps/giphycapture), upload it to [Imgur](https://imgur.com/), and then paste the link here.
-
----
 
 ## 🌟 Core Features
 
