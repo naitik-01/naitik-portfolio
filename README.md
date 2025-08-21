@@ -66,6 +66,6 @@ To run a local copy of this project, follow these simple steps.
 I'm always open to connecting with fellow developers and innovators. Feel free to reach out!
 
 <p align="left">
-<a href="https://linkedin.com/in/naitikkumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="naitikkumar" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/naitikkumar" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg](https://img.freepik.com/premium-vector/vector-linkedin-apps-logo-rounded-asset-isolated_1004619-457.jpg?semt=ais_hybrid&w=740&q=80)" alt="naitikkumar" height="30" width="40" /></a>
 <a href="mailto:naitikkumarmeps@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="naitikkumarmeps@gmail.com" height="30" width="40" /></a>
 </p>
